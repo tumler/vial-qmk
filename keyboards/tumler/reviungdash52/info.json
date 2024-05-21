@@ -20,7 +20,7 @@
     "processor": "RP2040",
     "bootloader": "rp2040",
     "layout_aliases": {
-        "LAYOUT_reviungdash52": "LAYOUT_reviungdash"
+        "LAYOUT": "LAYOUT_reviungdash"
     },
     "layouts": {
         "LAYOUT_reviungdash": {

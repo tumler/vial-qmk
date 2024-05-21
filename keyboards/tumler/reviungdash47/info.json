@@ -16,7 +16,7 @@
     "processor": "atmega32u4",
     "bootloader": "atmel-dfu",
     "layout_aliases": {
-        "LAYOUT_reviungdash47": "LAYOUT_reviungdash_double"
+        "LAYOUT": "LAYOUT_reviungdash_double"
     },
     "layouts": {
         "LAYOUT_reviungdash_single": {
